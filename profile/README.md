@@ -109,5 +109,5 @@ BE &nbsp; - &nbsp; [전선향](https://github.com/petal416) &nbsp; [유연정](h
 
 ![image](https://user-images.githubusercontent.com/109592005/197546591-4c4d3d21-f046-455f-b3a4-80810d9ca811.png)
 
-## 📁 Directory Structure 📂
+
 </div>
