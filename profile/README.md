@@ -15,7 +15,7 @@
 
 ### [ERD 보러가기](https://www.notion.so/woongsnote/ERD-3ccf85a44ac0457cb70fe08e34261f19)
 
-### [발표 영상 보러가기](https://www.notion.so/woongsnote/ERD-3ccf85a44ac0457cb70fe08e34261f19)
+### [발표 영상 보러가기](https://www.youtube.com/watch?v=sHVIiqPfBVU)
 
 
 <br>
