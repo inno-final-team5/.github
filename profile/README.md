@@ -3,26 +3,26 @@
 
 # 🎬 방구석평론가 🎬
 
-> 누구나 평론가가 되어 영화에 대한 정보를 마음껏 공유하는 **영화 커뮤니티** 입니다.
+### 누구나 평론가가 되어 영화에 대한 정보를 마음껏 공유하는 **영화 커뮤니티** 입니다.
 
 <br>
 
 ## 🎥<b> 프로젝트 주소 </b>
 
-[방구석평론가 사이트](https://www.moviecritic.site/)
+### [사이트 구경하러 가기](https://www.moviecritic.site/)
 
-[팀 노션 주소](https://www.notion.so/woongsnote/aacf5be13a1242b29f4e3d215f0f516f)
+### [팀 노션 구경하러 가기](https://www.notion.so/woongsnote/aacf5be13a1242b29f4e3d215f0f516f)
 
-[API 설계](https://www.notion.so/woongsnote/API-9b2ab4a006184615bcd961851fdfdb99)
+### [ERD 보러가기](https://www.notion.so/woongsnote/ERD-3ccf85a44ac0457cb70fe08e34261f19)
 
-[ERD](https://www.notion.so/woongsnote/ERD-3ccf85a44ac0457cb70fe08e34261f19)
+### [발표 영상 보러가기](https://www.notion.so/woongsnote/ERD-3ccf85a44ac0457cb70fe08e34261f19)
 
 
 <br>
 
 ## 📆 <b>프로젝트 기간</b>
 
-### 2022.09.16 - 2022.10.28
+### 2022.09.16 - 2022.10.28 (6주)
 
 <br>
 
@@ -41,28 +41,39 @@ FE &nbsp; - &nbsp; [문지웅](https://github.com/woongsnote) &nbsp; [유민아]
 
 BE &nbsp; - &nbsp; [전선향](https://github.com/petal416) &nbsp; [유연정](https://github.com/Jei-you) &nbsp; [정수민](https://github.com/jsm6943)
 
-## ⚙️ <b>Tech Stack</b> 🛠
-<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Java-yellow?style=flat-square&logo=java&logoColor=white"/>
-<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/> 
-<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon&logoColor=white"/>
-<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/JPA-N?style=flat-square&logo=JPA&logoColor=white"/>
-<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
-<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
-<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<br>
 
+## ⚙️ <b>Tech Stack</b>
+
+### 🛠 <b>FrontEnd</b> 🛠 
 <br>
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/> 
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/React query-FF4154?style=flat-square&logo=React query&logoColor=white"/> 
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/> 
-<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> 
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/TailwindCSS-blue?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white"/> 
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/CloudFront-black?style=flat-square&logoColor=white"/> 
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon&logoColor=white"/>
 
-</div>
+
+### 🛠 <b>BackEnd</b> 🛠
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Java-yellow?style=flat-square&logo=java&logoColor=white"/>
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/JWT-purple?style=flat-square&logo=jwt&logoColor=white"/>
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/JPA-N?style=flat-square&logo=JPA&logoColor=white"/>
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/OAuth2-gray?style=flat-square&logo=OAuth2&logoColor=white"/>
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
+<img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon&logoColor=white"/>
+
+<br>
 
 ## <b>📚 주요 기능</b>
+
+</div>
 <div align="left">
 <br>
 
