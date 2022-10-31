@@ -70,11 +70,13 @@
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon&logoColor=white"/>
 
 <br>
+</div>
 
+<div align="left">
+    
 ## <b>📚 주요 기능</b>
 
-</div>
-<div align="left">
+
 <br>
 
 1. **메인페이지**
